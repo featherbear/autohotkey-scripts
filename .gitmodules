@@ -1,0 +1,12 @@
+[submodule "WinSpy-AHK"]
+	path = WinSpy-AHK
+	url = https://github.com/featherbear/WinSpy-AHK
+[submodule "multi-speaker-control-AHK"]
+	path = multi-speaker-control-AHK
+	url = https://github.com/featherbear/multi-speaker-control-AHK
+[submodule "keyboard-locker-AHK"]
+	path = keyboard-locker-AHK
+	url = https://github.com/featherbear/keyboard-locker-AHK
+[submodule "friggin-firefox-AHK"]
+	path = friggin-firefox-AHK
+	url = https://github.com/featherbear/friggin-firefox-AHK
